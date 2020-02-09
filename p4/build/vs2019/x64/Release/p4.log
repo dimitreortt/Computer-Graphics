@@ -1,0 +1,78 @@
+﻿  Assets.cpp
+  BVH.cpp
+  Camera.cpp
+  ComponentCollection.cpp
+  GLRenderer.cpp
+  Main.cpp
+  P4.cpp
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(135,22): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(140,57): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(140,57): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(140,57): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(140,57): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(140,57): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(152,51): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(152,51): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(152,51): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(152,51): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(152,51): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(161,56): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(161,56): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(161,56): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(161,56): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(161,56): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(163,55): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(163,55): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(163,55): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(163,55): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(163,55): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(174,60): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(174,60): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(174,60): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(174,60): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(174,60): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(217,51): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(217,51): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(217,51): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(217,51): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(217,51): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(268,55): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(268,55): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(268,55): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(268,55): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(268,55): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(270,54): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(270,54): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(270,54): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(270,54): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(270,54): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(279,57): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(279,57): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(279,57): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(279,57): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(279,57): warning C4305:         ]
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(676,25): warning C4305:  'inicializando': truncamento de 'double' para 'float'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1332,3): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1332,3): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1332,3): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1332,3): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1332,3): warning C4305:         ]
+  Primitive.cpp
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1345,3): warning C4305:  'argumento': truncamento de 'double' para 'real'
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1345,3): warning C4305:         with
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1345,3): warning C4305:         [
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1345,3): warning C4305:             real=float
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\P4.cpp(1345,3): warning C4305:         ]
+  RayTracer.cpp
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\Primitive.cpp(95,29): warning C4804:  '<': uso não seguro de tipo 'bool' em operação
+  Renderer.cpp
+  SceneEditor.cpp
+  SceneObject.cpp
+  SceneObjectList.cpp
+  Transform.cpp
+C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\RayTracer.cpp(347,12): warning C4018:  '<': incompatibilidade de signed/unsigned
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 2861 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  p4.vcxproj -> C:\Users\dimio\OneDrive\Documentos\UFMS\Computação Gráfica\cg\cg\p4\build\vs2019\..\..\p4.exe
