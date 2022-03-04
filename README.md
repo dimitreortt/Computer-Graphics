@@ -1,10 +1,7 @@
-Aqui estão as 4 partes do trabalho prático de Computação Gráfica.
+Here are the 4 parts of practical Computer Graphics work.
 
-Professor: Paulo Pagliosa
-Aluno: Dimtitre Ortt
-UFMS - 2019.2
+Professor: Paulo Pagliosa Student: Dimtitre Ortt UFMS - 2019.2
 
-O código base para o trabalho contendo funcionalidades para criação de um Aplicativo Desktop e a lógica de coordenadas globais, entre outras, foi fornecida pelo professor.
-Foi utilizado também uma funcionalidade chamada de ImGui, criada e disponibilizada por desenvolvedores externos.
+The base code for the work containing functionalities for creating a Desktop Application and the logic of global coordinates, among others, was provided by the teacher. A feature called ImGui, created and made available by external developers, was also used.
 
-# Autores: Paulo Pagliosa e Dimitre Ortt
+### Authors: Paulo Pagliosa & Dimitre Ortt
