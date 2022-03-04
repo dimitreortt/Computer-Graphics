@@ -14,7 +14,7 @@ This project included several major parts:
 - implement a Ray-Tracer algorithm that throws rays of light into a tri-dimensional space and defines a scene from it
 - render a generated scene on the screen
 
-Almost everything in this project was implemented using C++. Besides it, it was used 
+Almost everything in this project was implemented using C++.
 
 
 ### Authors: Paulo Pagliosa & Dimitre Ortt
