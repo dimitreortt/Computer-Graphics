@@ -1,8 +1,8 @@
 ### Here are the 4 parts of the practical *Computer Graphics* homework that has been implemented throughout the entire semester of the discipline.
 
 **Professor**: Paulo Pagliosa  
-**Student**: Dimtitre Ortt UFMS - 2019.2  
-**Discipline**: Computer Graphics, FACOM - UFMS, Campo Grande - MS, Brasil  
+**Student**: Dimtitre Ortt
+**Discipline**: Computer Graphics, 2019.2, FACOM - UFMS, Campo Grande - MS, Brasil  
 
 The base code for the work containing functionalities for creating a Desktop Application and the logic of global coordinates, among others, was provided by the teacher. A feature called ImGui, created and made available by external developers, was also used.
 
