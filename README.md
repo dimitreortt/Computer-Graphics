@@ -1,4 +1,4 @@
-### Here are the 4 parts of the practical *Computer Graphics* homework that has been implemented throughout the entire semester of the discipline.
+### Here are the implementation of the 4 parts of the practical homework of the discipline of *Computer Graphics* that has been implemented throughout the entire semester at FACOM - UFMS.
 
 **Professor**: Paulo Pagliosa  
 **Student**: Dimtitre Ortt
